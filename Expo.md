@@ -12,7 +12,8 @@
  * Calculo de  tiempo
  * Tiempo de espera
  * Tipos de caminos
-
+ * Tiempos entre edificios
+ 
 ![](https://github.com/migueshock/Mi-CVU/blob/master/yo.jpg) 
 
 --
@@ -78,6 +79,25 @@ Consideraremos también los tiempos estimados de espera de acuerdo a la hora en 
 - H>C>J
 - J>C>L
 
+---
+
+#### Tiempos entre edificios
+
+- Del edifcio L al C aprox. 203 seg.
+- Del edifcio B al C aprox. 270 seg.
+- Del edifcio A al C aprox. 151 seg.
+- Del edifcio F al C aprox. 90 seg.
+- Del edifcio V al C aprox. 72 seg.
+- Del edifcio U al C aprox. 79 seg.
+- Del edifcio G al C aprox. 58 seg.
+- Del edifcio Q al C aprox. 112 seg.
+- Del edifcio D al C aprox. 198 seg.
+- Del edifcio E al C aprox. 108 seg.
+- Del edifcio M al C aprox. 130 seg.
+- Del edifcio X al C aprox. 139 seg.
+- Del edifcio I al C aprox. 103 seg.
+- Del edifcio H al C aprox. 138 seg.
+- Del edifcio J al C aprox. 163 seg.
 
 
 
